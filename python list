@@ -1,0 +1,36 @@
+python:
+類型:
+    int:number
+    float: number
+    string: "word" 'word'
+    bool : ture,flust
+函式
+    def vriluable1(函式名,方便呼叫)(參數)
+        vriluable1.參數 = 值
+呼叫函式
+    函式名(參數) = 放入得值
+
+項 class
+ex
+    vriluable(classname) class:
+                               vriluable(the class thing) = (int , float , thing , bool) #一個關於類的信息
+
+                               def vriluable1(函式名,方便呼叫)(參數)
+                                    vriluable1.參數 = 值
+呼叫項
+    項的名稱
+
+類 class
+ex  vriluable(classname) class:
+                               vriluable(the class thing) = (int , float , thing , bool) #一個關於類的信息
+
+
+
+列表
+[]有順序列表,()無順序列表
+
+字典
+{}
+
+
+
